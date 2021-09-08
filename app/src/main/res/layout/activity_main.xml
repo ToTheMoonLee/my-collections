@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <com.moonight.mycollections.view.DashboardView
-        android:id="@+id/dashBoard"
+    <com.moonight.mycollections.view.PieChartView
+        android:id="@+id/customView"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
